@@ -1,0 +1,34 @@
+{
+  "name": "my_awsom_portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasha1/my_awsom_portfolio.git"
+  },
+  "author": "perfilieva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasha1/my_awsom_portfolio/issues"
+  },
+  "homepage": "https://github.com/dasha1/my_awsom_portfolio#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.2.3",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-minify-css": "^1.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.5.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-watch": "^4.1.1",
+    "imagemin-pngquant": "^5.0.0",
+    "rimraf": "^2.3.1",
+    "gulp-pug": "^3.0.3",
+    "gulp-rigger": "^*"
+  }
+}

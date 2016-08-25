@@ -1,0 +1,21 @@
+{
+  "name": "my_awsom_portfolio",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "perfilieva"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/dasha1/my_awsom_portfolio",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
