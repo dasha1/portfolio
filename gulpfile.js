@@ -87,6 +87,7 @@ gulp.task('style:dist', function () {
             sourceMap: true,
             errLogToConsole: true
         }))
+        .pipe(rigger())
         .pipe(prefixer())
         .pipe(cssmin())
         .pipe(sourcemaps.write())

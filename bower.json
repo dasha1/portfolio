@@ -1,12 +1,12 @@
 {
-  "name": "my_awsom_portfolio",
+  "name": "portfolio",
   "description": "",
   "main": "index.js",
   "authors": [
     "perfilieva"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/dasha1/my_awsom_portfolio",
+  "homepage": "https://github.com/dasha1/portfolio",
   "ignore": [
     "**/.*",
     "node_modules",
